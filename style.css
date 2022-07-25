@@ -20,6 +20,11 @@ h1 {
     text-align: justify;
 }
 
+marquee {
+    color: rgb(219, 17, 17);
+    font-size: large;
+}
+
 .half-width {
     width: 50%;
     padding-left: 2%;
@@ -74,7 +79,7 @@ h1 {
 }
 
 #full-stack {
-    border-left: 7px solid orangered;
+    border-left: 7px solid tomato;
 }
 
 #baby-web {
